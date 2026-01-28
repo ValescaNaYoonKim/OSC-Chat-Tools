@@ -7,15 +7,15 @@ An OSC script I made for VRChat. Now with UI!
 OCT Is a standalone program used for interacting with Vrchat's OSC to send chat messages to the chatbox as well as other data in some cases
 
 # Having Issues? 
- - Read the [FAQ](https://github.com/Lioncat6/OSC-Chat-Tools/wiki/FAQ)
+ - Read the [FAQ](https:/ValescaNaYoonKim/github.com//OSC-Chat-Tools/wiki/FAQ)
  - Message me on discord https://discord.gg/invite/hWCuPXvq66
  - Create an issue https://github.com/Lioncat6/OSC-Chat-Tools/issues
 
 # Guides: (More Coming Soon)
- - [Quick Start Guide](https://github.com/Lioncat6/OSC-Chat-Tools/wiki/OCT-Quick-Start-Guide)
- - [Connecting to Spotify](https://github.com/Lioncat6/OSC-Chat-Tools/wiki/Connecting-to-Spotify)
-   - [Obtaining a Spotify client ID](https://github.com/Lioncat6/OSC-Chat-Tools/wiki/Spotify-Client-ID)
- - [Connecting to Pulsoid](https://github.com/Lioncat6/OSC-Chat-Tools/wiki/Connecting-to-Pulsoid)
+ - [Quick Start Guide](https://github.com/ValescaNaYoonKim/OSC-Chat-Tools/wiki/OCT-Quick-Start-Guide)
+ - [Connecting to Spotify](https://github.com/ValescaNaYoonKim/OSC-Chat-Tools/wiki/Connecting-to-Spotify)
+   - [Obtaining a Spotify client ID](https://github.com/ValescaNaYoonKim/OSC-Chat-Tools/wiki/Spotify-Client-ID)
+ - [Connecting to Pulsoid](https://github.com/ValescaNaYoonKim/OSC-Chat-Tools/wiki/Connecting-to-Pulsoid)
 
 # Features
  - Fully customizable layout with divider and newline toggles
