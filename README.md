@@ -9,7 +9,7 @@ OCT Is a standalone program used for interacting with Vrchat's OSC to send chat 
 # Having Issues? 
  - Read the [FAQ](https:/ValescaNaYoonKim/github.com//OSC-Chat-Tools/wiki/FAQ)
  - Message me on discord https://discord.gg/invite/hWCuPXvq66
- - Create an issue https://github.com/Lioncat6/OSC-Chat-Tools/issues
+ - Create an issue https://github.com/ValescaNaYoonKim/OSC-Chat-Tools/issues
 
 # Guides: (More Coming Soon)
  - [Quick Start Guide](https://github.com/ValescaNaYoonKim/OSC-Chat-Tools/wiki/OCT-Quick-Start-Guide)
